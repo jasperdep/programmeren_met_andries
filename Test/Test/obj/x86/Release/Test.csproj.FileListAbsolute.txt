@@ -1,0 +1,3 @@
+/Users/jasper/School/2e jaar/Ober blok 3/programmeren/Test/Test/bin/Release/Test.exe
+/Users/jasper/School/2e jaar/Ober blok 3/programmeren/Test/Test/obj/x86/Release/Test.csproj.CoreCompileInputs.cache
+/Users/jasper/School/2e jaar/Ober blok 3/programmeren/Test/Test/obj/x86/Release/Test.exe
